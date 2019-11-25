@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "113166767303",
+    "firebase_url": "https://insightrd-3b7d4.firebaseio.com",
+    "project_id": "insightrd-3b7d4",
+    "storage_bucket": "insightrd-3b7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113166767303:android:15da6e4119d04d641c9ae2",
+        "android_client_info": {
+          "package_name": "eyrastudios.com.insightrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113166767303-hn404i0ab5rle93pv0esblcotcss6cm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eyrastudios.com.insightrd",
+            "certificate_hash": "fea6734d7fc52abff96015471287addd2039097b"
+          }
+        },
+        {
+          "client_id": "113166767303-b39uhg2nrhd17rdtejs5lakvvf0bvhjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eyrastudios.com.insightrd",
+            "certificate_hash": "aa6fa14fb6bf5a386272fa2ab89faa28406646c9"
+          }
+        },
+        {
+          "client_id": "113166767303-sub1h0q31bn4eol09fpljudccljstose.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eyrastudios.com.insightrd",
+            "certificate_hash": "21764e6cc032e6ff345fa778e246b167e0817bf5"
+          }
+        },
+        {
+          "client_id": "113166767303-9nb2agmo6cgq8afi7gd8ae1g3n8c9dvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOo-mD17vZUIBT7sOlvgHgpVvpeM8ESQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113166767303-9nb2agmo6cgq8afi7gd8ae1g3n8c9dvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

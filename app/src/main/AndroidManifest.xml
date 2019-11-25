@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eyrastudios.com.insightrd">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PDFActivity"></activity>
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".LibraryActivity" />
+        <activity android:name=".TypeScriptActivity" />
+        <activity android:name=".MongoDBActivity" />
+        <activity android:name=".NodeJSActivity" />
+        <activity android:name=".DockerActivity" />
+        <activity android:name=".BootstrapActivity" />
+        <activity android:name=".KotlinActivity" />
+        <activity android:name=".AngularActivity" />
+        <activity android:name=".VueJSActivity" />
+        <activity android:name=".LaravelActivity" />
+        <activity android:name=".ReactJSActivity" />
+        <activity android:name=".AlgorithmsActivity" />
+        <activity android:name=".PythonActivity" />
+        <activity android:name=".TensorFlowActivity" />
+        <activity android:name=".JavaActivity" />
+        <activity android:name=".AndroidActivity" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".DashActivity" />
+        <activity android:name=".IntroActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
